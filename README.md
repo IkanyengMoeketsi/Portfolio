@@ -8,7 +8,7 @@ Professional portfolio: recruiter-focused summary, CV, projects and contact info
 
 ## Quick links
 
-- **Portfolio (this site):** [Index.html](Index.html)
+- **Portfolio (this site):** [index.html](index.html)
 - **CV:** /files/CV-Ikanyeng-Moeketsi.pdf
 - **GitHub:** https://github.com/IkanyengMoeketsi
 - **LinkedIn:** https://www.linkedin.com/in/IkanyengMoeketsi
